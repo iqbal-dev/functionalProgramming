@@ -1,3 +1,9 @@
+/**
+ *
+ * @param {number} number
+ * @param {number} afterFraction
+ * @returns number
+ */
 function customFloor(number, afterFraction) {
   let newNumber = number.toString().split(".");
   if (newNumber < 1) {
