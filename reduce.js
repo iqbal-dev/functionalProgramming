@@ -3,7 +3,7 @@ var number = [1, 2, 3, 4, 5];
 /**
  *
  * @param {array} array
- * @param {operational call back function} cb
+ * @param {function} cb
  * @param {which type of value return} returnValueType
  * @returns returnValueType value
  */
